@@ -8,4 +8,5 @@ Right click to set target for selected units.
 Move camera with WASD or arrow keys.
 
 The tiles represent different terrain types, each with a multiplier in path calulcation.
+
 Green being the lowest (best terrain), then cyan, then yellow, then red as the highest (worst terrain).
